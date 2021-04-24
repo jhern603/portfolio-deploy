@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/portfolio-redesign/static/css/main.0c8cc3be.chunk.css",
+    "main.js": "/portfolio-redesign/static/js/main.37302287.chunk.js",
+    "main.js.map": "/portfolio-redesign/static/js/main.37302287.chunk.js.map",
+    "runtime-main.js": "/portfolio-redesign/static/js/runtime-main.977b8cff.js",
+    "runtime-main.js.map": "/portfolio-redesign/static/js/runtime-main.977b8cff.js.map",
+    "static/js/2.55bb1c4f.chunk.js": "/portfolio-redesign/static/js/2.55bb1c4f.chunk.js",
+    "static/js/2.55bb1c4f.chunk.js.map": "/portfolio-redesign/static/js/2.55bb1c4f.chunk.js.map",
+    "static/js/3.851829cc.chunk.js": "/portfolio-redesign/static/js/3.851829cc.chunk.js",
+    "static/js/3.851829cc.chunk.js.map": "/portfolio-redesign/static/js/3.851829cc.chunk.js.map",
+    "index.html": "/portfolio-redesign/index.html",
+    "static/css/main.0c8cc3be.chunk.css.map": "/portfolio-redesign/static/css/main.0c8cc3be.chunk.css.map",
+    "static/js/2.55bb1c4f.chunk.js.LICENSE.txt": "/portfolio-redesign/static/js/2.55bb1c4f.chunk.js.LICENSE.txt",
+    "static/media/index.scss": "/portfolio-redesign/static/media/portrait.a6ba61b6.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.977b8cff.js",
+    "static/js/2.55bb1c4f.chunk.js",
+    "static/css/main.0c8cc3be.chunk.css",
+    "static/js/main.37302287.chunk.js"
+  ]
+}
